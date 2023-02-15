@@ -1,0 +1,15 @@
+.news-view {
+  padding: 20px;
+  margin: 40px;
+  border: 1px solid lightgray;
+  font-size: 16px;
+}
+.news-view > .item {
+  padding-top: 8px;
+}
+
+.news-view > .item > span {
+  margin-left: 20px;
+  font-size: 14px;
+  color: lightslategray;
+}
